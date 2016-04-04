@@ -1,0 +1,22 @@
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #CCC; 
+	background-image: url(img/K1.jpg) no-repeat top center;
+	font-family: 'Open Sans', sans-serif;
+	overflow-x: hidden;
+}
+
+.main-body {
+	float: left;
+	width: 100%;
+	background-image: url(img/K1.jpg) no-repeat top center;
+	background-size: 100% auto;
+	background-attachment: fixed;
+}
