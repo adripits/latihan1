@@ -2,4 +2,4 @@
 webdesign
 
 ### Click url below to see live web version
-http://adripitsx.github.io/latihan1/
+http://adripits.github.io/latihan1/
